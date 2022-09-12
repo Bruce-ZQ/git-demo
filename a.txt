@@ -1,3 +1,7 @@
 aaa
 
+<<<<<<< HEAD
 dog commit
+=======
+cat cc
+>>>>>>> 1e7da64 (cat commit)
